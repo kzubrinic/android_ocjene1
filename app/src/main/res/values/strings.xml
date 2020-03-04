@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Ocjene filmova</string>
+    <string name="button_ocijeni">Ocijeni</string>
+    <string name="labela_po">Prosječna ocjena</string>
+    <string name="naziv_filma">The Godfather</string>
+</resources>
